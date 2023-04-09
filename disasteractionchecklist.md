@@ -35,3 +35,33 @@ Check for additional magnetic tapes, or optical media if required
 Take copies of system and operational documentation and procedural manuals.
 Ensure that all personnel involved know their tasks
 Notify insurance companies
+
+
+Was this topic helpful?
+Yes
+No
+
+
+
+
+
+
+
+Recovery startup procedures for use after actual disaster
+Last Updated: 2021-08-02
+
+Consider these recovery startup procedures for use after actual disaster.
+
+Notify ____________ Disaster Recovery Services of the need to utilize service and of recovery plan selection.
+Note: Guaranteed delivery time countdown begins at the time ____________ is notified of recovery plan selection.
+Disaster notification numbers
+____________or ____________
+These telephone numbers are in service from ____________ am until ____________ pm Monday through Friday.
+
+Disaster notification number
+____________
+This telephone number is in service for disaster notification after business hours, on weekends, and during holidays. Please use this number only for the notification of the actual disaster.
+
+Provide ____________ with an equipment delivery site address (when applicable), a contact, and an alternate contact for coordinating service and telephone numbers at which contacts can be reached 24 hours a day.
+Contact power and telephone service suppliers and schedule any necessary service connections.
+Notify ____________ immediately if any related plans should change.
